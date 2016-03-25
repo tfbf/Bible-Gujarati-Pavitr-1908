@@ -1,1 +1,2 @@
-# gujaratipavitrbible1908
+# Gujarati Bible 
+## Pavitr Bible 1908 Edition
